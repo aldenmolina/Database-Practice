@@ -7,7 +7,7 @@ namespace DatabasePractice.Models
 {
     public class ContactInfo
     {
-        public int ContactId { get; set; }
+        public int ContactInfoId { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
     }
